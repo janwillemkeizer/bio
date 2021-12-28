@@ -9,8 +9,8 @@ Ik heb heel bewust voor het programmeursvak gekozen, omdat ik het waardevol vind
 
 Mijn interesse ligt bij het ontwerpen en maken van oplossingen met Java (Spring) en Angular. 
 
-Sinds 2018 ben ik daarom elke dag bezig met code. Ik heb verschillende certificaten gehaald en ben vaak oplossingen aan het bedenken voor zaken waar ik in mijn leven tegenaan loop. Ik doe curcussen en doe projecten voor mezelf om mijn vaardigheden naar een hoger niveau te tillen.  
+Sinds 2018 ben ik daarom elke dag bezig met code. Ik heb verschillende certificaten gehaald en ben vaak oplossingen aan het bedenken voor zaken waar ik in mijn leven tegenaan loop. Ik doe curcussen en projecten voor mezelf om mijn vaardigheden naar een hoger niveau te tillen.  
 
-Werkervaring als developer opgedaan als Power Platform Specialist. Mijn volgende stap die ik ga zetten is een opleidingstraject voor Java- en Angular development. 
+Werkervaring als developer heb ik opgedaan als Power Platform Specialist. Mijn volgende stap die ik ga zetten is een opleidingstraject voor Java- en Angular development. 
 
 Mijn sterke punten zijn mijn analytische vermogen, mijn ambachtelijke werkhouding met aandacht voor kwaliteit en mijn communicatieve vaardigheden. 
